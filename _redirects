@@ -1,15 +1,6 @@
-# Cloudflare Pages Redirects & Clean URLs
-/home                /index.html          301
-/about-us            /about.html          200
-/about-us/           /about.html          200
-/about               /about.html          200
-/services/           /services.html       200
-/services            /services.html       200
-/job-seekers/        /job-seekers.html    200
-/job-seekers         /job-seekers.html    200
-/candidate-app/      /candidate-app.html  200
-/candidate-app       /candidate-app.html  200
-/contact/            /contact.html        200
-/contact             /contact.html        200
-/legal/              /legal.html          200
-/legal               /legal.html          200
+# Cloudflare Redirects & Legacy URL Mapping
+/home                /                    301
+/about-us            /about.html          301
+/about-us/           /about.html          301
+/contact-us          /contact.html        301
+/contact-us/         /contact.html        301
