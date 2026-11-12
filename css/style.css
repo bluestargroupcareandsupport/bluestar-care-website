@@ -1419,31 +1419,54 @@ textarea.form-control {
     gap: 0.65rem;
   }
 
-  .footer-accreditations {
-    margin: 2rem 0 1.5rem;
-    padding: 0.85rem 1rem;
-    border-radius: 10px;
+  .trust-badges-row {
+    gap: 0.75rem;
+    margin: 2rem 0 1.25rem;
   }
-  .footer-accreditations img {
-    max-height: 36px;
+  .trust-badge-card {
+    height: 46px;
+    padding: 0.4rem 0.85rem;
+  }
+  .trust-badge-card img {
+    max-height: 28px;
+    max-width: 110px;
   }
 }
 
-/* Footer Accreditations Trust Bar */
-.footer-accreditations {
-  margin: 2.5rem 0 1.75rem;
-  padding: 1.25rem 2rem;
-  background: #ffffff;
-  border-radius: 12px;
+/* Footer Regulatory & Accreditation Trust Badges Row */
+.trust-badges-row {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  gap: 1.15rem;
+  margin: 2.5rem 0 1.75rem;
+  padding: 0;
 }
 
-.footer-accreditations img {
-  max-height: 48px;
+.trust-badge-card {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 0.55rem 1.15rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.12);
+  height: 52px;
+  box-sizing: border-box;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  text-decoration: none;
+}
+
+.trust-badge-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.2);
+}
+
+.trust-badge-card img {
+  max-height: 36px;
   width: auto;
-  max-width: 100%;
+  max-width: 140px;
   object-fit: contain;
+  display: block;
 }
