@@ -2,10 +2,8 @@
 
 ## Entity Legal Details
 - **Operating Entity**: Bluestar Care & Support Ltd
-- **Affiliated Entity**: Pegasus Healthcare Solutions Limited (PHSL)
-- **Director**: Simon Shinwell
-- **Email**: simon.shinwell@bluestar-caresupport.co.uk
-- **Registered Contact Phone**: 0141 280 8188 / 01293 300009
+- **Registered Contact Phone**: 01293 300009
+- **Email**: jobs@bluestar-caresupport.co.uk
 
 ---
 

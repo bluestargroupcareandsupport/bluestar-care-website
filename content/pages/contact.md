@@ -9,8 +9,8 @@
 ## Office & Contact Details
 - **Company**: Bluestar Care & Support Ltd
 - **Office Address**: 2nd floor, 40a The Boulevard, Crawley, West Sussex, RH10 1XP
-- **Telephone**: 01293 300009 / 0141 280 8188
-- **Email**: jobs@bluestar-caresupport.co.uk
+- **Telephone**: 01293 300009
+- **Email**: jobs@bluestar-caresupport.co.uk (Care Inquiries) / apply@bluestarresourcing.co.uk (Job Applications)
 - **Hours**: Monday - Friday: 9:00 AM - 5:00 PM (24/7 On-Call Support for active care clients)
 
 ---

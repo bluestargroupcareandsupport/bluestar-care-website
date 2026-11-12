@@ -1,17 +1,19 @@
 # Bluestar Care & Support - Navigation & Global Data
 
 ## Company Profile
-- **Company Name**: Bluestar Care & Support Ltd (affiliated with Pegasus Healthcare Solutions Limited - PHSL)
+- **Company Name**: Bluestar Care & Support Ltd
 - **Tagline**: We Care With Love & Affection
 - **Primary Website**: https://bluestar-caresupport.co.uk
 - **Head Office Address**: 2nd floor, 40a The Boulevard, Crawley, West Sussex, RH10 1XP
-- **Telephone**: 01293 300009 / 0141 280 8188
-- **Email**: jobs@bluestar-caresupport.co.uk / athira95.logezy@gmail.com
-- **Director**: Simon Shinwell (simon.shinwell@bluestar-caresupport.co.uk)
+- **Telephone**: 01293 300009
+- **Email**: jobs@bluestar-caresupport.co.uk / apply@bluestarresourcing.co.uk
 - **Accreditations**:
+  - Care Quality Commission (CQC)
+  - International Organization for Standardization (ISO)
+  - Information Commissioner's Office (ICO)
+  - Homecare Association
   - Real Living Wage Employer (`wage_logo.png`)
   - REC Member - Recruitment & Employment Confederation (`rec-logo.png`)
-  - CQC Regulated Provider Standards
 
 ## Header Top Bar
 - **Phone**: 01293 300009

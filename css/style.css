@@ -1418,4 +1418,32 @@ textarea.form-control {
     align-items: flex-start;
     gap: 0.65rem;
   }
+
+  .footer-accreditations {
+    margin: 2rem 0 1.5rem;
+    padding: 0.85rem 1rem;
+    border-radius: 10px;
+  }
+  .footer-accreditations img {
+    max-height: 36px;
+  }
+}
+
+/* Footer Accreditations Trust Bar */
+.footer-accreditations {
+  margin: 2.5rem 0 1.75rem;
+  padding: 1.25rem 2rem;
+  background: #ffffff;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+.footer-accreditations img {
+  max-height: 48px;
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
 }
